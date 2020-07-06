@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio rama maestro
+=======
+Archivo de texto modificado para branch1
+>>>>>>> branch1
